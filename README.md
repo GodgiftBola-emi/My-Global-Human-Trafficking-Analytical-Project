@@ -1,6 +1,8 @@
 <img width="567" height="1068" alt="Global Human Trafficking Analysis Dashbaord" src="https://github.com/user-attachments/assets/654ad2ab-fef3-4b93-8b57-c9dcbe30d46e" />
 
+
 Introduction:
+
 Human trafficking remains a complex global challenge involving exploitation, organized criminal activity, vulnerable populations, and significant demands on justice systems.
 Understanding the scale of trafficking requires more than looking at isolated cases or individual countries. Data analysis provides an opportunity to examine how trafficking-related offences, prosecutions, convictions, and detected victims change across time and geography.
 
